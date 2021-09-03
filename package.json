@@ -6,7 +6,7 @@
   "homepage" : "https://seoboseok.github.io/innovationT/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "predeploy": "npm run build",
+    "predeploy": "echo \"start\"",
     "deploy": "gh-pages -d build"
   },
   "author": "",
