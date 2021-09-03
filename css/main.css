@@ -93,6 +93,7 @@
 .notice .notice-line .inner__left .swiper-container {
   flex-grow: 1; /* 최대 넓이를 가지도록 설정. */
   height: 62px;
+  overflow: hidden;
 }
 .notice .notice-line .inner__left .swiper-container .swiper-slide {
   height: 62px;
